@@ -28,3 +28,18 @@ li {
 h2, ul, ol, p {
     margin: 10px 150px;
 }
+
+.yellow {
+    background-color: yellow;
+    color: red;
+}
+
+.red {
+    background-color: red;
+    color:aliceblue;
+}
+
+.green {
+    background-color: green;
+    color: aqua;
+}
