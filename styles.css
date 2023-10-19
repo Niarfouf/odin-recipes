@@ -11,15 +11,20 @@ div {
     text-align: center;
 }
 
-ul {
+.main {
     list-style: none;
+    padding: 0;
   }
 
 h2 {
     background-color: lightcyan;
+    padding: 8px;
+}
+
+li {
+    padding: 2px;
 }
 
 h2, ul, ol, p {
-    margin-left: 250px;
-    margin-right: 250px;
+    margin: 10px 150px;
 }
