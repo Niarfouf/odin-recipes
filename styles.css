@@ -13,7 +13,7 @@ div {
 
 .main {
     list-style: none;
-    padding: 0;
+    padding: 8px 0 0 0;
   }
 
 h2 {
@@ -42,4 +42,8 @@ h2, ul, ol, p {
 .green {
     background-color: green;
     color: aqua;
+}
+
+ul, ol {
+    background-color: lightgrey;
 }
