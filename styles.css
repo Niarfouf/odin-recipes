@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    background-color: red;
+    text-align: center;
+}
+
+div {
+    text-align: center;
+}
+
+ul {
+    list-style: none;
+  }
+
+h2 {
+    background-color: lightcyan;
+}
+
+h2, ul, ol, p {
+    margin-left: 250px;
+    margin-right: 250px;
+}
